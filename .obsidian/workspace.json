@@ -11,13 +11,28 @@
             "id": "126c903c532d3df9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/COMMS System Components.md"
+                "file": "Software Planning/COMMS/STM32 - CAN - OBC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f888265991b7b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test file.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/COMMS System Components.md",
+                "file": "Test file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/COMMS System Components.md",
+                "file": "Test file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/COMMS System Components.md"
+                "file": "Test file.md"
               }
             }
           }
@@ -146,27 +161,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "126c903c532d3df9",
+  "active": "8f888265991b7b46",
   "lastOpenFiles": [
-    "Excalidraw/COMMS States.md",
-    "Excalidraw/COMMS System Components.md",
+    "Software Planning/COMMS/STM32 - CAN - OBC.md",
+    "Test file.md",
+    "Software Planning/COMMS/RF(RX) - STM32.md",
+    "Software Planning/COMMS/COMMS TM DATA.md",
     "Software Planning/COMMS/COMMS Tasks in High Level.canvas",
+    "Software Planning/COMMS/TC format in CAN Bus.md",
     "Software Planning/COMMS/TM format in CAN Bus.md",
+    "Software Planning/COMMS/TM Packetization.md",
+    "Excalidraw/FDIR.md",
+    "Excalidraw/COMMS System Components.md",
+    "Excalidraw/COMMS States.md",
     "Software Planning/COMMS",
     "Welcome.md",
-    "Excalidraw/FDIR.md",
-    "Software Planning/COMMS/TM Packetization.md",
-    "Software Planning/COMMS/TC format in CAN Bus.md",
     "Software Planning/COMMS/TC Depacketization.md",
     "Software Planning/COMMS/STM32 - I2C (EPS).md",
-    "Software Planning/COMMS/STM32 - CAN - OBC.md",
-    "Software Planning/COMMS/RF(RX) - STM32.md",
     "Software Planning/COMMS/RF(RX) - STM32 - eMMC.md",
     "Software Planning/COMMS/RF(RX) - STM32 - CAN.md",
     "Software Planning/COMMS/OBC - CAN - STM32.md",
     "Software Planning/COMMS/GNSS - STM32 - eMMC.md",
     "Software Planning/COMMS/eMMC - STM32 - RF(TX).md",
-    "Software Planning/COMMS/COMMS TM DATA.md",
     "Software Planning/COMMS/CAN - STM32 - RF(TX).md",
     "Software Planning"
   ]

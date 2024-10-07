@@ -6,3 +6,4 @@ Periodically
 #### Why
 In order to catch an OBC malfunction which will initiate a procedure where the redundant MCU will take on.
 
+
