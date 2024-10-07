@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"a0c35c3495b67931","type":"file","file":"Excalidraw/COMMS System Components.md","x":209,"y":-2270,"width":1112,"height":932},
+		{"id":"13372df5cf310f19","type":"text","text":"\tSensors & RF & eMMC & GNSS - STM32 - CAN","x":960,"y":-1018,"width":445,"height":50},
+		{"id":"2efeb0519c5067b0","type":"file","file":"Software Planning/COMMS/COMMS TM DATA.md","x":1524,"y":-1218,"width":641,"height":450},
+		{"id":"492ab040454fffb6","type":"file","file":"Software Planning/COMMS/STM32 - CAN - OBC.md","x":1524,"y":-692,"width":641,"height":400},
+		{"id":"dcc8ababd3cad126","type":"file","file":"Software Planning/COMMS/RF(RX) - STM32 - CAN.md","x":-124,"y":-42,"width":644,"height":431},
+		{"id":"bfcea61331a229f9","type":"text","text":"\tRF(RX) - STM32 - CAN","x":-578,"y":141,"width":262,"height":66},
+		{"id":"d97ee84f9872a4d5","type":"file","file":"Software Planning/COMMS/CAN - STM32 - RF(TX).md","x":-121,"y":512,"width":641,"height":402},
+		{"id":"fb1e39eeb0c279bf","type":"text","text":"\tCAN - STM32 - RF(TX)","x":-610,"y":683,"width":294,"height":60},
+		{"id":"15a6ddb49356d307","type":"text","text":"\tGNSS - STM32 - eMMC","x":-586,"y":-1023,"width":280,"height":66},
+		{"id":"443fa1552feed97a","type":"text","text":"\teMMC - STM32 - RF(TX)","x":-586,"y":-426,"width":270,"height":60},
+		{"id":"86efe136fc7335b7","type":"file","file":"Software Planning/COMMS/GNSS - STM32 - eMMC.md","x":-102,"y":-1218,"width":622,"height":456},
+		{"id":"e5f22dab906fca28","type":"file","file":"Software Planning/COMMS/eMMC - STM32 - RF(TX).md","x":-102,"y":-671,"width":622,"height":549},
+		{"id":"9c4ce83401eda6aa","type":"text","text":"\tSTM32 - CAN - OBC","x":1058,"y":-537,"width":249,"height":91},
+		{"id":"fac307a80858cacb","type":"file","file":"Software Planning/COMMS/STM32 - I2C (EPS).md","x":1525,"y":196,"width":641,"height":316},
+		{"id":"d30e58faf5de9373","type":"text","text":"\tOBC - CAN - STM32","x":1059,"y":-101,"width":249,"height":91},
+		{"id":"dc4e34d7a911abbd","type":"text","text":"\tSTM32 - I2C [EPS]","x":1059,"y":324,"width":250,"height":60},
+		{"id":"3e0fa72873880c90","type":"file","file":"Software Planning/COMMS/OBC - CAN - STM32.md","x":1524,"y":-202,"width":641,"height":293},
+		{"id":"f3ef3a2b255bd960","x":-124,"y":1021,"width":641,"height":410,"type":"file","file":"Software Planning/COMMS/RF(RX) - STM32 - eMMC.md"},
+		{"id":"5424e31089283f86","type":"text","text":"\tRF(RX) - STM32 - eMMC","x":-610,"y":1196,"width":294,"height":60},
+		{"id":"4c264182dc2ed0c0","type":"text","text":"\tRF(RX) - STM32","x":903,"y":1226,"width":221,"height":56},
+		{"id":"e39eebd1eb511a1b","x":1249,"y":1114,"width":641,"height":280,"type":"file","file":"Software Planning/COMMS/RF(RX) - STM32.md"}
+	],
+	"edges":[
+		{"id":"70daa6992539284a","fromNode":"15a6ddb49356d307","fromSide":"right","toNode":"86efe136fc7335b7","toSide":"left"},
+		{"id":"aa5a202ef3701094","fromNode":"443fa1552feed97a","fromSide":"right","toNode":"e5f22dab906fca28","toSide":"left"},
+		{"id":"38d1d05757292aab","fromNode":"bfcea61331a229f9","fromSide":"right","toNode":"dcc8ababd3cad126","toSide":"left"},
+		{"id":"da8185cd218f832a","fromNode":"fb1e39eeb0c279bf","fromSide":"right","toNode":"d97ee84f9872a4d5","toSide":"left"},
+		{"id":"aab268cdc1304761","fromNode":"13372df5cf310f19","fromSide":"right","toNode":"2efeb0519c5067b0","toSide":"left"},
+		{"id":"3402a7616830cd9f","fromNode":"dc4e34d7a911abbd","fromSide":"right","toNode":"fac307a80858cacb","toSide":"left"},
+		{"id":"24b7f2cf0c8e567b","fromNode":"9c4ce83401eda6aa","fromSide":"right","toNode":"492ab040454fffb6","toSide":"left"},
+		{"id":"4e5a6a2747ad080a","fromNode":"d30e58faf5de9373","fromSide":"right","toNode":"3e0fa72873880c90","toSide":"left"},
+		{"id":"c85ea0680db6daea","fromNode":"5424e31089283f86","fromSide":"right","toNode":"f3ef3a2b255bd960","toSide":"left"},
+		{"id":"040254053e710c2c","fromNode":"4c264182dc2ed0c0","fromSide":"right","toNode":"e39eebd1eb511a1b","toSide":"left"}
+	]
+}

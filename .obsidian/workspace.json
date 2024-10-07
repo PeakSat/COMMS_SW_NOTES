@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "7c45ae7f6e0579c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ea0b7ef34e4dc35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "126c903c532d3df9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/COMMS System Components.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1692514636880c70",
+    "type": "split",
+    "children": [
+      {
+        "id": "79a5a3fe383b7e91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c1b404ac48ee128",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "806a3e5e219dcd3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea9eea9c4ee1517a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4b2d270ee699636",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdd35a31a9f6fa06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebc068b1bb42e88b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/COMMS System Components.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "908dbf1e244ab071",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/COMMS System Components.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dade7a8416671640",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d02158eec50696bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/COMMS System Components.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "126c903c532d3df9",
+  "lastOpenFiles": [
+    "Excalidraw/COMMS States.md",
+    "Excalidraw/COMMS System Components.md",
+    "Software Planning/COMMS/COMMS Tasks in High Level.canvas",
+    "Software Planning/COMMS/TM format in CAN Bus.md",
+    "Software Planning/COMMS",
+    "Welcome.md",
+    "Excalidraw/FDIR.md",
+    "Software Planning/COMMS/TM Packetization.md",
+    "Software Planning/COMMS/TC format in CAN Bus.md",
+    "Software Planning/COMMS/TC Depacketization.md",
+    "Software Planning/COMMS/STM32 - I2C (EPS).md",
+    "Software Planning/COMMS/STM32 - CAN - OBC.md",
+    "Software Planning/COMMS/RF(RX) - STM32.md",
+    "Software Planning/COMMS/RF(RX) - STM32 - eMMC.md",
+    "Software Planning/COMMS/RF(RX) - STM32 - CAN.md",
+    "Software Planning/COMMS/OBC - CAN - STM32.md",
+    "Software Planning/COMMS/GNSS - STM32 - eMMC.md",
+    "Software Planning/COMMS/eMMC - STM32 - RF(TX).md",
+    "Software Planning/COMMS/COMMS TM DATA.md",
+    "Software Planning/COMMS/CAN - STM32 - RF(TX).md",
+    "Software Planning"
+  ]
+}
